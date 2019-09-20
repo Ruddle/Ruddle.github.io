@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Welcome"
+date:   2019-09-20 11:06:30 +0200
+categories: misc
+permalink: /welcome/
+---
+
+The zeroth post of this blog.
+
+It will probably be replaced with a first post when I am ready to write stuff.
+
+
+
